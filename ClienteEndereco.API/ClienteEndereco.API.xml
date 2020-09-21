@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClienteEndereco.API</name>
+    </assembly>
+    <members>
+        <member name="M:ClienteEndereco.API.Controllers.ClienteController.Get">
+            <summary>
+            Recupera todos os clientes
+            </summary>
+            <returns>Lista de Cliente</returns>
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.ClienteController.Post(ClienteEndereco.API.Domain.Models.Cliente)">
+            <summary>
+            Adiciona um novo cliente
+            </summary>
+            <param name="cliente"></param>
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.ClienteController.Put(ClienteEndereco.API.Domain.Models.Cliente)">
+            <summary>
+            Atualiza o cliente especificado
+            </summary>
+            <param name="cliente"></param>        
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.ClienteController.Delete(System.Int32)">
+            <summary>
+            Deleta o cliente especificado
+            </summary>
+            <param name="id"></param>        
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.EnderecoController.Get">
+            <summary>
+            Recupera todos os Endereços
+            </summary>
+            <returns>Lista de Endereco</returns>
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.EnderecoController.Post(ClienteEndereco.API.Domain.Models.Endereco)">
+            <summary>
+            Adiciona um novo Endereço
+            </summary>
+            <param name="endereco"></param>
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.EnderecoController.Put(ClienteEndereco.API.Domain.Models.Endereco)">
+            <summary>
+            Atualiza o endereço especificado
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:ClienteEndereco.API.Controllers.EnderecoController.Delete(System.Int32)">
+            <summary>
+            Deleta o endereço especificado
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

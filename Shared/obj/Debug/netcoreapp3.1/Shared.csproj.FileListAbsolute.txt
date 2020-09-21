@@ -1,0 +1,8 @@
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\jefferson.lyrio\Documents\Projeto\ClienteEndereco.API\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
