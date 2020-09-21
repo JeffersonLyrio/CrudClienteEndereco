@@ -21,9 +21,7 @@ namespace ClienteEndereco.API.Persistence.Repositories {
         }
 
         public async Task<IEnumerable<Cliente>> LIstAsync() {
-            return await _context.Clientes
-                .FromSqlRaw($"SELECT * FROM Clientes")
-                .ToListAsync();
+            return await _context.Clientes.ToListAsync();
         }
 
         public async Task Remove(int id) {
